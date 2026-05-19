@@ -1,6 +1,5 @@
 
-
 color = input("what is your fav color ")
 
 
-print("Hello,", color)
+print("your favorite color is ", color)
